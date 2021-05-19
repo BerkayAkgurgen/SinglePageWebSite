@@ -258,6 +258,10 @@
     margin: 0px;
 }
 
+.big-header {
+    font-size: 40px;
+    line-height: 1.4;
+}
 .avatar-wrapper {
     position: relative;
     width: 100px;
